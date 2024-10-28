@@ -1,7 +1,8 @@
 # pandas-challenge
 Challenge for Module 4 - Pandas &amp; Jupyter
 
-This challenge uses the reading and merging of two CSV files containing school district and student test score data to analyze factors that may contribute to student scores on math and reading exams and the overall share of students that may pass.
+This challenge uses the reading and merging of two CSV files (located in the Resources folder) containing school district and student test score data to analyze factors that may contribute to student scores on math and reading exams and the overall share of students that may pass.
+
 Utilizing Pandas functions such as Data Frames, Group By, Mean, Sum, Unique/Counts, Formatting, etc., combined with personal notes and in-class examples I was able to find the below insights (which can also be found in the Python Function main.py). Please utilize Jupyter Notebook to perform this analysis using the below navigation functions in Terminal: 
 	cd Desktop
 	conda activate dev
